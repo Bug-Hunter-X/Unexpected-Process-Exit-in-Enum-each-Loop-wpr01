@@ -1,0 +1,1 @@
+This repository showcases a subtle bug in Elixir related to prematurely exiting a process within an `Enum.each` loop. The `bug.ex` file contains the erroneous code.  The solution, in `bugSolution.ex`, demonstrates a safer and more idiomatic approach.
